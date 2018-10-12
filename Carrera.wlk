@@ -1,0 +1,6 @@
+class Carrera {
+
+	var materias = []
+
+}
+
